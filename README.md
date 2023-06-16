@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there! 👋 I'm Rohit, a passionate Data Scientist from India. </h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center"> I specialize in data analytics, data visualization, and problem-solving. With a strong foundation in Python programming and a deep understanding of statistical analysis and database management, I strive to derive actionable insights from complex datasets.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitverma0021&label=Profile%20views&color=0e75b6&style=flat" alt="rohitverma0021" /> </p>
