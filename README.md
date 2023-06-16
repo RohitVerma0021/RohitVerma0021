@@ -15,9 +15,9 @@
 
 - 💬 Feel free to reach out to me if you have any questions or discussions related to Data Science. I'm always eager to share my knowledge and engage in insightful conversations.
 
-- 📫 How to reach me **rohitvermav0021@gmail.com**
+- 📫 You can reach me at rohitvermav0021@gmail.com. Whether you want to discuss potential collaborations, industry trends, or simply have a data science-related conversation, I'm just an email away!
 
-- ⚡ Fun fact **I  am funny 😜**
+- ⚡ Fun fact: I have a great sense of humor and love to bring positivity to the teams I work with. 😜
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
