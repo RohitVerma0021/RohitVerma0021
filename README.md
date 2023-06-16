@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohitVerma0021](https://github.com/RohitVerma0021)
 
-- 💬 Ask me about **Data Science**
+- 💬 Feel free to reach out to me if you have any questions or discussions related to Data Science. I'm always eager to share my knowledge and engage in insightful conversations.
 
 - 📫 How to reach me **rohitvermav0021@gmail.com**
 
