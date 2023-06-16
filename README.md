@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitverma0021&label=Profile%20views&color=0e75b6&style=flat" alt="rohitverma0021" /> </p>
 
-- 🔭 I’m currently working on **MAchine Learning**
+- 🔭 Currently, I'm actively engaged in working on Machine Learning projects, applying advanced algorithms and models to solve real-world problems.
 
 - 🌱 I’m currently learning **Machine learning,Natural Language Processing, and Data Science**
 
