@@ -7,7 +7,7 @@
 
 - 🔭 Currently, I'm actively engaged in working on Machine Learning projects, applying advanced algorithms and models to solve real-world problems.
 
-- 🌱 I’m currently learning **Machine learning,Natural Language Processing, and Data Science**
+- 🌱 I'm continuously expanding my knowledge in Machine Learning, Natural Language Processing, and Data Science through self-study and exploring the latest research in these fields.
 
 - 👯 I’m looking to collaborate on **NLP**
 
