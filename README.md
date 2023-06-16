@@ -9,7 +9,7 @@
 
 - 🌱 I'm continuously expanding my knowledge in Machine Learning, Natural Language Processing, and Data Science through self-study and exploring the latest research in these fields.
 
-- 👯 I’m looking to collaborate on **NLP**
+- 👯 I'm enthusiastic about collaborating with like-minded individuals and teams on challenging Machine learning projects. If you have any interesting Mchine learning projects or ideas, let's connect and explore the possibilities together!
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohitVerma0021](https://github.com/RohitVerma0021)
 
