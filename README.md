@@ -11,7 +11,7 @@
 
 - 👯 I'm enthusiastic about collaborating with like-minded individuals and teams on challenging Machine learning projects. If you have any interesting Mchine learning projects or ideas, let's connect and explore the possibilities together!
 
-- 👨‍💻 All of my projects are available at [https://github.com/RohitVerma0021](https://github.com/RohitVerma0021)
+- 👨‍💻 All of my projects are available at GitHub[https://github.com/RohitVerma0021](https://github.com/RohitVerma0021)
 
 - 💬 Feel free to reach out to me if you have any questions or discussions related to Data Science. I'm always eager to share my knowledge and engage in insightful conversations.
 
