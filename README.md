@@ -1,19 +1,18 @@
-
 <h1 align="center">Hi there! 👋 I'm Rohit, a passionate Data Scientist from India. </h1>
-<h3 align="center"> I specialize in data analytics, data visualization, and problem-solving. With a strong foundation in Python programming and a deep understanding of statistical analysis and database management, I strive to derive actionable insights from complex datasets.</h3>
+<h3 align="center">Specializing in data analytics, data visualization, and problem-solving, I strive to derive actionable insights from complex datasets. With a strong foundation in Python programming and a deep understanding of statistical analysis and database management, I am dedicated to making a significant impact through data-driven solutions.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitverma0021&label=Profile%20views&color=0e75b6&style=flat" alt="rohitverma0021" /> </p>
 
-- 🔭 Currently, I'm actively engaged in working on Machine Learning projects, applying advanced algorithms and models to solve real-world problems.
+- 🔭 Currently, I'm actively engaged in working on machine learning projects, applying advanced algorithms and models to solve real-world problems.
 
-- 🌱 I'm continuously expanding my knowledge in Machine Learning, Natural Language Processing, and Data Science through self-study and exploring the latest research in these fields.
+- 🌱 I'm continuously expanding my knowledge in machine learning, natural language processing, and data science through self-study and exploring the latest research in these fields.
 
-- 👯 I'm enthusiastic about collaborating with like-minded individuals and teams on challenging Machine learning projects. If you have any interesting Mchine learning projects or ideas, let's connect and explore the possibilities together!
+- 👯 I'm enthusiastic about collaborating with like-minded individuals and teams on challenging machine learning projects. If you have any interesting machine learning projects or ideas, let's connect and explore the possibilities together!
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/RohitVerma0021)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/RohitVerma0021).
 
-- 💬 Feel free to reach out to me if you have any questions or discussions related to Data Science. I'm always eager to share my knowledge and engage in insightful conversations.
+- 💬 Feel free to reach out to me if you have any questions or discussions related to data science. I'm always eager to share my knowledge and engage in insightful conversations.
 
 - 📫 You can reach me at rohitvermav0021@gmail.com. Whether you want to discuss potential collaborations, industry trends, or simply have a data science-related conversation, I'm just an email away!
 
@@ -21,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohit verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit verma" height="30" width="40" /></a>
-<a href="https://kaggle.com/vicky niddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vicky niddy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohitverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitverma" height="30" width="40" /></a>
+<a href="https://kaggle.com/vickyniddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vickyniddy" height="30" width="40" /></a>
 <a href="https://instagram.com/niddy0021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niddy0021" height="30" width="40" /></a>
 </p>
 
