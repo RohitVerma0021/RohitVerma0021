@@ -8,7 +8,7 @@
 
 - 🔭 Currently, I'm actively engaged in working on Machine Learning projects, applying advanced algorithms and models to solve real-world problems.
 - 🌱 I'm continuously expanding my knowledge in Machine Learning, Natural Language Processing, and Data Science through self-study and exploring the latest research in these fields.
-- 👯 I'm enthusiastic about collaborating with like-minded individuals and teams on challenging Machine learning projects. If you have any interesting Machine learning projects or ideas, let's connect and explore the possibilities together!
+- 👯 I'm enthusiastic about collaborating with like-minded individuals and teams on challenging Machine learning projects. If you have any interesting Machine learning projects or ideas, let's connect and explore the possibilities together.!
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/RohitVerma0021).
 - 💬 Feel free to reach out to me if you have any questions or discussions related to Data Science. I'm always eager to share my knowledge and engage in insightful conversations.
 - 📫 You can reach me at rohitvermav0021@gmail.com. Whether you want to discuss potential collaborations, industry trends, or simply have a data science-related conversation, I'm just an email away!
